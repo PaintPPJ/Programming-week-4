@@ -1,0 +1,5 @@
+﻿  Source 2.cpp
+C:\Users\DELL\source\repos\Programming 4.2\Programming 4.2\Source 2.cpp(39,20): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\DELL\source\repos\Programming 4.2\Programming 4.2\Source 2.cpp(39,20): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\DELL\source\repos\Programming 4.2\Programming 4.2\Source 2.cpp(34): warning C4715: 'pattern': not all control paths return a value
+  Programming 4.2.vcxproj -> C:\Users\DELL\source\repos\Programming 4.2\Debug\Programming 4.2.exe
